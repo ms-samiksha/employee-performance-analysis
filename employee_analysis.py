@@ -62,8 +62,6 @@ html = f"""
 
 <h1>Employee Analysis Report</h1>
 
-<p><b>Email:</b> 23f3001448@ds.study.iitm.ac.in</p>
-
 <p><b>Operations Department Count:</b> {operations_count}</p>
 
 <h2>Histogram</h2>
